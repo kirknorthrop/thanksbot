@@ -36,3 +36,6 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 config.js
+ve
+slackbot_settings.py
+__pycache__
