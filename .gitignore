@@ -39,3 +39,4 @@ config.js
 ve
 slackbot_settings.py
 __pycache__
+*.pyc
